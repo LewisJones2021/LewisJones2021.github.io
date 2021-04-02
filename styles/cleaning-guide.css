@@ -81,6 +81,9 @@ img {
   .text {
     width: 100%;
   }
+  img {
+    margin-top: 20px;
+  }
   header {
     flex-direction: column;
     text-align: center;
